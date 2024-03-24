@@ -1,0 +1,10 @@
+.{
+    .name = "libccd",
+    .version = "2.1.0",
+    .dependencies = .{},
+    .paths = .{
+        "src",
+        "build.zig",
+        "build.zig.zon",
+    },
+}
